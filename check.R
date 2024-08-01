@@ -13,3 +13,5 @@ ggplot(df, aes(x = x, y = y)) +
   geom_point(color = "blue", size = 3) +
   labs(title = "Scatterplot Example", x = "X-axis", y = "Y-axis") +
   theme_minimal()
+
+#add more graphs
